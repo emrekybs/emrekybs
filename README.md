@@ -1,4 +1,4 @@
-### Hi there 👋, Emre Köybaşı
+### 👋, Emre Köybaşı
 #### Defense By Offense SOC TEAM
 ![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/1.jpg)
 
