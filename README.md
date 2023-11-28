@@ -9,6 +9,10 @@ This repository contains my projects and works related to cybersecurity. I'm her
 #### Defense By Offense SOC TEAM 🛡️
 ![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/1.jpg)
 
+## About Me
+- 🎓 I have a degree in Computer Science .
+- 💼 I have over 5 years of experience in cybersecurity.
+  
 ## Areas of Interest 
 - Penetration Testing 🥷🏻
 - Web Application Security 🌏
