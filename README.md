@@ -1,7 +1,7 @@
-### 👋, Emre Köybaşı
+### 👋, I'm Emre Köybaşı
 #### Defense By Offense SOC TEAM
 ![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/1.jpg)
-
+### | Threat Intelligence🧠 | Cybersecurity | Penetration testing 💻 | Web application penetration tester | ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrekybs)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emrekybs&show_icons=true)  
