@@ -15,7 +15,7 @@ This repository contains my projects and works related to cybersecurity. I'm her
   
 ## Areas of Interest 
 - Penetration Testing 🥷🏻
-- Web Application Security 🌏
+- Web Application Security and Bug Bounty 🌏
 - Wireless Security 🌐 
 - Incident Response 🧑🏻‍💻
 - Threat Hunting 🕵
