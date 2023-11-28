@@ -1,6 +1,6 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)
 
-![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/whoami.png)
+![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/whoamii.gif)
 
 # Hello, I'm Emre Köybaşı 👋 
 I'm a cybersecurity professional currently working in the SOC (Security Operations Center) team.
