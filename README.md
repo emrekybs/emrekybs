@@ -1,8 +1,16 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)
+# Hello, I'm Emre Köybaşı 👋 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)
+I'm a cybersecurity professional currently working in the SOC (Security Operations Center) team.
+This repository contains my projects and works related to cybersecurity. I'm here to share my experiences in security and engage with the community. If you have any questions or would like to collaborate, feel free to reach out!
+
 #### Defense By Offense SOC TEAM
-### | Threat Intelligence 🧠 | Cybersecurity | OSINT | ###
-### | Penetration testing 💻 | Web application penetration tester ⚛️ | ###
-### | Incident Response | DFIR | ###
+
+## Areas of Interest
+- Penetration Testing 🔍
+- Web Application Security
+- Wireless Security
+- Incident Response 🚨
+- Threat Hunting 🕵️‍♂️
+
 
 ![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/1.jpg)
 
