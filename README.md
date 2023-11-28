@@ -5,7 +5,6 @@
 ### | Incident Response | DFIR | ###
 
 ![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/1.jpg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrekybs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Social
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emrekybs&show_icons=true)  
