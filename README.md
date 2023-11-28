@@ -15,6 +15,7 @@ This repository contains my projects and works related to cybersecurity. I'm her
 - Wireless Security 🌐 
 - Incident Response 🧑🏻‍💻
 - Threat Hunting 🕵
+- Osint 👥
 
 ### Social
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emrekybs&show_icons=true)  
