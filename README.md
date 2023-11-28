@@ -10,7 +10,7 @@ This repository contains my projects and works related to cybersecurity. I'm her
 ![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/blue.png)
 
 ## About Me
-- 🎓 I have a degree in Computer Science .
+- 🎓 I have a degree in Computer Engineering .
 - 💼 I have over 5 years of experience in cybersecurity.
   
 ## Areas of Interest 
