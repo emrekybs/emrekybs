@@ -1,6 +1,6 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)
 #### Defense By Offense SOC TEAM
-### | Threat Intelligence 🧠 | Cybersecurity | ###
+### | Threat Intelligence 🧠 | Cybersecurity | OSINT | ###
 ### | Penetration testing 💻 | Web application penetration tester ⚛️ | ###
 ### | Incident Response | DFIR | ###
 
