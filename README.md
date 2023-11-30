@@ -1,4 +1,4 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)
+[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue) 🛡️
 
 ![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/whoamii.gif)
 
@@ -6,7 +6,6 @@
 I'm a cybersecurity professional currently working in the SOC (Security Operations Center) team.
 This repository contains my projects and works related to cybersecurity. I'm here to share my experiences in security and engage with the community. If you have any questions or would like to collaborate, feel free to reach out!
 
-#### Defense By Offense SOC TEAM 🛡️
 ![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/cyberclub.png)
 
 ## About Me
