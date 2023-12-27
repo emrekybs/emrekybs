@@ -1,5 +1,4 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue) 🛡️
-[![EmreKybs](https://img.shields.io/badge/Defense By Offense SOC) 🛡️
+[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)🛡️
 
 # Hello, I'm Emre Köybaşı 👋 
 I am a Blue Team member working with a Red Team mentality 🛡
