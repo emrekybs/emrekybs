@@ -1,6 +1,6 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue) 🛡️
+[![EmreKybs](https://img.shields.io/badge/Defense By Offense SOC) 🛡️
 
-![Defense By Offense SOC]
 # Hello, I'm Emre Köybaşı 👋 
 I am a Blue Team member working with a Red Team mentality 🛡
 This repository contains my projects and works related to cybersecurity. I'm here to share my experiences in security and engage with the community. If you have any questions or would like to collaborate, feel free to reach out!
