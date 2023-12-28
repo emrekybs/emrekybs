@@ -10,7 +10,7 @@ This repository contains my projects and works related to cybersecurity. I'm her
 - 🎓 I have a degree in Computer Engineering .
 - 💼 I have over 5 years of experience in cybersecurity.
   
-## Field of Interest 
+## My areas of expertise include: 💻
 - Penetration Testing 🥷🏻
 - Owasp 🌏
 - Wireless Security 🌐 
