@@ -1,7 +1,6 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)🛡️
 
 # Emre Koybasi - Cyber Intelligence Analyst 🛡
-I am a Blue Team member working with a Red Team mentality 🛡
 
 ![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/3.jpg)
 
@@ -14,9 +13,9 @@ I am a Blue Team member working with a Red Team mentality 🛡
 - Owasp 🌏
 - Wireless Security 🌐 
 - Incident Response 🧑🏻‍💻
-- Threat Hunting 🕵
+- Malware Analysis🕵
 - Osint 👥
-- Cloud Security 🚀
+- Cyber Intelligence 🚀
 
 ### Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emrekybs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emre-koybasi/)  
