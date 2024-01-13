@@ -1,6 +1,6 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-red)🛡️
 
-# Emre Koybasi - Cyber Intelligence Analyst 🛡
+#                  Cyber Intelligence Analyst 🛡
 
 "Searching for vulnerabilities in machines is foolish. Look for vulnerabilities in the deep desires of humans."
 
