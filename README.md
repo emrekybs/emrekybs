@@ -15,20 +15,20 @@ Passionate about the latest technological and security advancements, I am dedica
 ## Cyber Intelligence Specializations 🌐
 - Digital Forensic Analysis
 - Cyber Counterintelligence
-- Advanced Persistent Threats (APT) Analysis
+- Advanced Persistent Threats (APT) Analysis 🥷🏻
 - Cyber Geopolitics
 - Cyber Threat Profiling
 - Dark Web
-- Cyber Warfare Strategies
+- Cyber Warfare Strategies 🌏
 - Cyber Espionage Tactics
 - OSINT SOCMINT HUMINT GEOINT SIGINT
 
   
 ## My areas of expertise include: 💻
-- Penetration Testing 🥷🏻
-- Owasp 🌏
-- Wireless Security 🌐 
-- Incident Response 🧑🏻‍💻
+- Penetration Testing 
+- Owasp 
+- Wireless Security 
+- Incident Response 
 - Malware Analysis
 
 ### Social
