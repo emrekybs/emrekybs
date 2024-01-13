@@ -15,7 +15,6 @@ Passionate about the latest technological and security advancements, I am dedica
 ## Cyber Intelligence Specializations 🌐
 - Digital Forensic Analysis
 - Cyber Counterintelligence
-- Cyber Psychology
 - Advanced Persistent Threats (APT) Analysis
 - Cyber Geopolitics
 - Cyber Threat Profiling
