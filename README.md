@@ -5,8 +5,10 @@
 ![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/3.jpg)
 
 ## About Me
-- 🎓 I have a degree in Computer Engineering .
-- 💼 I have over 5 years of experience in cybersecurity.
+Working in the field of cyber intelligence, my areas of focus include Advanced Persistent Threats (APT) Analysis, Cyber Geopolitics, 
+Cyber Threat Profiling, Dark Web Monitoring, Information Warfare Strategies, Cyber Espionage Tactics, and Cyber Risk Assessment. 
+My commitment lies in understanding and mitigating complex cyber threats, staying ahead in a constantly evolving security landscape. 
+Passionate about the latest technological and security advancements, I am dedicated to addressing the dynamic challenges of cyber threats.
   
 ## My areas of expertise include: 💻
 - Penetration Testing 🥷🏻
