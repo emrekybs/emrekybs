@@ -21,7 +21,7 @@ Passionate about the latest technological and security advancements, I am dedica
 - Dark Web
 - Cyber Warfare Strategies 🌏
 - Cyber Espionage Tactics
-- OSINT SOCMINT HUMINT GEOINT SIGINT
+- OSINT SOCMINT HUMINT GEOINT SIGINT IMINT
 
   
 ## My areas of expertise include: 💻
