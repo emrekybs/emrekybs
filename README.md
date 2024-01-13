@@ -1,6 +1,6 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)🛡️
 
-# Emre Koybasi - SOC TEAM PLAYER 🛡
+# Emre Koybasi - Cyber Intelligence Analyst 🛡
 I am a Blue Team member working with a Red Team mentality 🛡
 
 ![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/3.jpg)
