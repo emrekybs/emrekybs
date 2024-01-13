@@ -10,18 +10,18 @@ Cyber Threat Profiling, Dark Web Monitoring, Information Warfare Strategies, Cyb
 My commitment lies in understanding and mitigating complex cyber threats, staying ahead in a constantly evolving security landscape. 
 Passionate about the latest technological and security advancements, I am dedicated to addressing the dynamic challenges of cyber threats.
 
-##Cyber Intelligence Specializations 🌐
-Digital Forensic Analysis
-Cyber Counterintelligence
-Cyber Psychology
-Advanced Persistent Threats (APT) Analysis
-Cyber Geopolitics
-Cyber Threat Profiling
-Dark Web Monitoring
-Cyber Warfare Strategies
-Cyber Espionage Tactics
-Cyber Risk Assessment
-Intelligence-Driven Security Operations
+## Cyber Intelligence Specializations 🌐
+- Digital Forensic Analysis
+- Cyber Counterintelligence
+- Cyber Psychology
+- Advanced Persistent Threats (APT) Analysis
+- Cyber Geopolitics
+- Cyber Threat Profiling
+- Dark Web Monitoring
+- Cyber Warfare Strategies
+- Cyber Espionage Tactics
+- Cyber Risk Assessment
+
 
 Ethical Hacking for Intelligence Gathering
 
