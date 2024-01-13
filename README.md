@@ -3,7 +3,7 @@
 # Emre Koybasi - SOC TEAM PLAYER 🛡
 I am a Blue Team member working with a Red Team mentality 🛡
 
-![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/1.png)
+![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/2.jpg)
 
 ## About Me
 - 🎓 I have a degree in Computer Engineering .
