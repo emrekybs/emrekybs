@@ -1,4 +1,4 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)🛡️
+[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-red)🛡️
 
 # Emre Koybasi - Cyber Intelligence Analyst 🛡
 
