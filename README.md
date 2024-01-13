@@ -19,10 +19,9 @@ Passionate about the latest technological and security advancements, I am dedica
 - Advanced Persistent Threats (APT) Analysis
 - Cyber Geopolitics
 - Cyber Threat Profiling
-- Dark Web Monitoring
+- Dark Web
 - Cyber Warfare Strategies
 - Cyber Espionage Tactics
-- Malware Analysis
 - OSINT SOCMINT HUMINT GEOINT SIGINT
 
   
@@ -31,6 +30,7 @@ Passionate about the latest technological and security advancements, I am dedica
 - Owasp 🌏
 - Wireless Security 🌐 
 - Incident Response 🧑🏻‍💻
+- Malware Analysis
 
 ### Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emrekybs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emre-koybasi/)  
