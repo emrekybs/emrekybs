@@ -13,10 +13,8 @@ My commitment lies in understanding and mitigating complex cyber threats, stayin
 Passionate about the latest technological and security advancements, I am dedicated to addressing the dynamic challenges of cyber threats.
 
 ## Cyber Intelligence Specializations 🌐
-- Digital Forensic Analysis
 - Cyber Counterintelligence
 - Advanced Persistent Threats (APT) Analysis 🥷🏻
-- Cyber Geopolitics
 - Cyber Threat Profiling
 - Dark Web
 - Cyber Warfare Strategies 🌏
@@ -30,7 +28,7 @@ Passionate about the latest technological and security advancements, I am dedica
 - Wireless Security 
 - Incident Response 
 - Malware Analysis
-
+- 
 ### Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emrekybs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emre-koybasi/)  
 
