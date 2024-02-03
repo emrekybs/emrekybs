@@ -6,14 +6,14 @@
 
 ![Defense By Offense SOC](https://github.com/angelus1857/angelus1857/blob/main/angelus.jpeg)
 
-![Defense By Offense SOC](https://github.com/angelus1857/angelus1857/blob/main/ang.jpeg)
+
 ## About Me
 Working in the field of cyber intelligence, my areas of focus include Advanced Persistent Threats (APT) Analysis, Cyber Geopolitics, 
 Cyber Threat Profiling, Dark Web Monitoring, Information Warfare Strategies, Cyber Espionage Tactics, and Cyber Risk Assessment. 
 My commitment lies in understanding and mitigating complex cyber threats, staying ahead in a constantly evolving security landscape. 
 Passionate about the latest technological and security advancements, I am dedicated to addressing the dynamic challenges of cyber threats.
 
-## Cyber Intelligence Specializations 🌐
+## ![Cyber Intelligence Specializations](https://github.com/angelus1857/angelus1857/blob/main/ang.jpeg) 🌐
 - Cyber Counterintelligence
 - Advanced Persistent Threats (APT) Analysis 🥷🏻
 - Cyber Threat Profiling
