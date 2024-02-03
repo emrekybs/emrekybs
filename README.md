@@ -7,7 +7,7 @@
 ![Cyber](https://github.com/angelus1857/angelus1857/blob/main/angelus.jpeg)
 
 
-## About Me
+## Who Am I
 Working in the field of cyber intelligence, my areas of focus include Advanced Persistent Threats (APT) Analysis, Cyber Geopolitics, 
 Cyber Threat Profiling, Dark Web Monitoring, Information Warfare Strategies, Cyber Espionage Tactics, and Cyber Risk Assessment. 
 My commitment lies in understanding and mitigating complex cyber threats, staying ahead in a constantly evolving security landscape. 
@@ -29,9 +29,5 @@ Passionate about the latest technological and security advancements, I am dedica
 - Wireless Security 
 - Incident Response 
 - Malware Analysis
-- 
-### Social
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emrekybs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emre-koybasi/)  
-
 ### Certificates
 <img src="https://github.com/emrekybs/emrekybs/blob/main/certificates.png">
