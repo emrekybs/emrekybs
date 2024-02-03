@@ -1,4 +1,4 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-Angelus-red) 💻
+[![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-red) 💻
 
 #                  Cyber Intelligence Analyst 🛡
 
