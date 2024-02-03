@@ -4,7 +4,7 @@
 
 "Searching for vulnerabilities in machines is foolish. Look for vulnerabilities in the deep desires of humans."
 
-![Defense By Offense SOC](https://github.com/emrekybs/emrekybs/blob/main/3.jpg)
+![Defense By Offense SOC](https://github.com/angelus1857/angelus1857/blob/main/angelus.jpeg)
 
 ## About Me
 Working in the field of cyber intelligence, my areas of focus include Advanced Persistent Threats (APT) Analysis, Cyber Geopolitics, 
