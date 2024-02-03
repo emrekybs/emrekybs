@@ -4,7 +4,7 @@
 
 "Searching for vulnerabilities in machines is foolish. Look for vulnerabilities in the deep desires of humans."
 
-![Cyber](https://github.com/angelus1857/angelus1857/blob/main/angelus.jpeg)
+![Cyber](https://github.com/emrekybs/emrekybs/blob/main/name.png)
 
 
 ## Who Am I
