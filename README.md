@@ -4,7 +4,7 @@
 
 "Searching for vulnerabilities in machines is foolish. Look for vulnerabilities in the deep desires of humans."
 
-![Defense By Offense SOC](https://github.com/angelus1857/angelus1857/blob/main/angelus.jpeg)
+![Cyber](https://github.com/angelus1857/angelus1857/blob/main/angelus.jpeg)
 
 
 ## About Me
@@ -13,7 +13,7 @@ Cyber Threat Profiling, Dark Web Monitoring, Information Warfare Strategies, Cyb
 My commitment lies in understanding and mitigating complex cyber threats, staying ahead in a constantly evolving security landscape. 
 Passionate about the latest technological and security advancements, I am dedicated to addressing the dynamic challenges of cyber threats.
 
-## ![(https://github.com/angelus1857/angelus1857/blob/main/ang.jpeg)
+![DARKWEB](https://github.com/angelus1857/angelus1857/blob/main/ang.jpeg)
 ## Cyber Intelligence Specializations 🌐
 - Cyber Counterintelligence
 - Advanced Persistent Threats (APT) Analysis 🥷🏻
