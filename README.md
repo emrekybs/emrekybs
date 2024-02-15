@@ -2,6 +2,8 @@
 
 #                  Cyber Intelligence Analyst 🛡
 
+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
+
 "Searching for vulnerabilities in machines is foolish. Look for vulnerabilities in the deep desires of humans."
 
 ![Cyber](https://github.com/emrekybs/emrekybs/blob/main/name.png)
