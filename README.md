@@ -1,7 +1,5 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-red) 💻
 
-#                  Cyber Intelligence Analyst 🛡
-
 
 "Searching for vulnerabilities in machines is foolish. Look for vulnerabilities in the deep desires of humans."
 
