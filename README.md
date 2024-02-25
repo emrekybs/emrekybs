@@ -9,5 +9,3 @@ Working in the field of cyber intelligence, my areas of focus include Advanced P
 Cyber Threat Profiling, Dark Web Monitoring, Information Warfare Strategies, Cyber Espionage Tactics, and Cyber Risk Assessment. 
 My commitment lies in understanding and mitigating complex cyber threats, staying ahead in a constantly evolving security landscape. 
 Passionate about the latest technological and security advancements, I am dedicated to addressing the dynamic challenges of cyber threats.
-
-<img src="https://github.com/emrekybs/emrekybs/blob/main/certificates.png">
