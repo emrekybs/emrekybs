@@ -1,4 +1,4 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-Darkblue) 🥷🏻
+[![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-red) 🥷🏻
 
 ## MOTTO
 "Searching for vulnerabilities in machines is foolish. Look for vulnerabilities in the deep desires of humans."
