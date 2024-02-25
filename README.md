@@ -1,4 +1,4 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-red) 🧛🏻‍♀️
+[![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-BLACK) 🧛🏻‍♀️
 
 ## MOTTO
 "Searching for vulnerabilities in machines is foolish. Look for vulnerabilities in the deep desires of humans."
@@ -10,7 +10,7 @@ Cyber Threat Profiling, Dark Web Monitoring, Information Warfare Strategies, Cyb
 My commitment lies in understanding and mitigating complex cyber threats, staying ahead in a constantly evolving security landscape. 
 Passionate about the latest technological and security advancements, I am dedicated to addressing the dynamic challenges of cyber threats.
 
-<img src="https://github.com/emrekybs/emrekybs/blob/main/wp.png">
+<img src="https://github.com/emrekybs/emrekybs/blob/main/Dracula%20Os.jpeg">
 
 ## Field of Experience
 * Incident Response
