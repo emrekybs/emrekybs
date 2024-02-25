@@ -13,7 +13,7 @@ Passionate about the latest technological and security advancements, I am dedica
 ## Field of Experience
 * Incident Response
 * Soc Analyst
-* Penetration Testing
+* Penetration Test
 * Cyber Intelligence
-* Red Teaming
+* Red Team
 * Information Security
