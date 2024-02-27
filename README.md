@@ -1,10 +1,10 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-purple) 
+[![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-purple) 😈
 
 ## MOTTO
 "Searching for vulnerabilities in machines is foolish. Look for vulnerabilities in the deep desires of humans."
 
 
-## Who Am I
+## Who Am I 👤
 Working in the field of cyber intelligence, my areas of focus include Advanced Persistent Threats (APT) Analysis, Cyber Geopolitics, 
 Cyber Threat Profiling, Dark Web Monitoring, Information Warfare Strategies, Cyber Espionage Tactics, and Cyber Risk Assessment. 
 My commitment lies in understanding and mitigating complex cyber threats, staying ahead in a constantly evolving security landscape. 
