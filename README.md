@@ -1,4 +1,4 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-purple) 🧛🏻‍♀️
+[![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-purple) 
 
 ## MOTTO
 "Searching for vulnerabilities in machines is foolish. Look for vulnerabilities in the deep desires of humans."
@@ -19,3 +19,5 @@ Passionate about the latest technological and security advancements, I am dedica
 * Cyber Intelligence
 * Red Team
 * Information Security
+* OSINT 
+* DARKWEB Investigation
