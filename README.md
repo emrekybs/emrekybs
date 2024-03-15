@@ -1,4 +1,4 @@
-[![Emre](https://img.shields.io/badge/MadeBy-Emre-red) 🕷️
+[![BloodBane](https://img.shields.io/badge/MadeBy-BloodBane-red) 🕷️
 
 ## MOTTO
 "Searching for vulnerabilities in machines is foolish. Look for vulnerabilities in the deep desires of humans."
