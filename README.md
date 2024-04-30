@@ -14,10 +14,9 @@ Passionate about the latest technological and security advancements, I am dedica
 
 ## Field of Experience
 * Incident Response
-* Soc Analyst
+* Information Security Analyst
 * Penetration Test
 * Cyber Intelligence
 * Red Team
-* Information Security
 * OSINT 
 * DARKWEB Investigation
