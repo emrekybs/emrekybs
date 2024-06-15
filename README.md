@@ -10,7 +10,7 @@ Cyber Threat Profiling, Dark Web Monitoring, Information Warfare Strategies, Cyb
 My commitment lies in understanding and mitigating complex cyber threats, staying ahead in a constantly evolving security landscape. 
 Passionate about the latest technological and security advancements, I am dedicated to addressing the dynamic challenges of cyber threats.
 
-<img src="https://github.com/emrekybs/emrekybs/blob/main/pp.jpeg">
+<img src="https://github.com/emrekybs/emrekybs/blob/main/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif">
 
 ## Field of Experience
 * Incident Response
