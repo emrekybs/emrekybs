@@ -8,9 +8,8 @@
     🔐 Information Security Analyst • 🚨 Incident Response • 🥷 Red Team • 🛡️ Penetration Test •  
 
 ## MOTTO
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=19&pause=1000&color=F70202&background=47FBFF00&vCenter=true&multiline=true&width=441&height=62&lines=%22Searching+for+vulnerabilities+in+machines+is+foolish." alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=16&pause=1000&color=F71600&background=47FBFF00&vCenter=true&multiline=true&width=441&height=62&lines=Look+for+vulnerabilities+in+the+deep+desires+of+humans." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=14&pause=1000&color=F71600&background=47FBFF00&vCenter=true&multiline=true&width=441&height=62&lines=Searching+for+vulnerabilities+in+machines+is+foolish." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=14&pause=1000&color=F71600&background=47FBFF00&vCenter=true&multiline=true&width=441&height=62&lines=Look+for+vulnerabilities+in+the+deep+desires+of+humans" alt="Typing SVG" /></a>
 
 </pre>
 <br><br>
