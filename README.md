@@ -7,6 +7,9 @@
     🧠 Cyber Intelligence • 
     🔐 Information Security Analyst • 🚨 Incident Response • 🥷 Red Team • 🛡️ Penetration Test •  
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=19&pause=1000&color=F70202&background=47FBFF00&vCenter=true&multiline=true&width=441&height=62&lines=MOTTO" alt="Typing SVG" /></a>
+
+
 </pre>
 <br><br>
 <img src="dadsa.jpeg" alt="sherlock holmes cartoon with a magnifying glass" width="30%" height="30%"/>
