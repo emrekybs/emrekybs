@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70202&width=435&lines=Working+in+the+field+of+cyber+intelligence%2C+my+areas+of+focus+include+Advanced+Persistent+Threats+(APT)+Analysis%2C+Cyber+Geopolitics%2C+Cyber+Threat+Profiling%2C+Dark+Web+Monitoring%2C+Information+Warfare+Strategies%2C+Cyber+Espionage+Tactics%2C+and+Cyber+Risk+Assessment.+My+commitment+lies+in+understanding+and+mitigating+complex+cyber+threats%2C+staying+ahead+in+a+constantly+evolving+security+landscape.+Passionate+about+the+latest+technological+and+security+advancements%2C+I+am+dedicated+to+addressing+the+dynamic+challenges+of+cyber+threats.;%22Searching+for+vulnerabilities+in+machines+is+foolish.+Look+for+vulnerabilities+in+the+deep+desires+of+humans.%22" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70202&width=435&lines=%22Searching+for+vulnerabilities+in+machines+is+foolish.+Look+for+vulnerabilities+in+the+deep+desires+of+humans.%22" alt="Typing SVG" /></a>
 <br><br>
 <pre>
     🕵🏻‍♂️ OSINT • 🌍 GIS • 🐧 Linux Sys Admin
