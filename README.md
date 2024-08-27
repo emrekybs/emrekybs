@@ -9,7 +9,7 @@
 
 </pre>
 <br><br>
-<img src="sherlock.gif" alt="sherlock holmes cartoon with a magnifying glass" width="30%" height="30%"/>
+<img src="dadsa.jpeg" alt="sherlock holmes cartoon with a magnifying glass" width="30%" height="30%"/>
 <br><br><br>
 
 <br><br>
