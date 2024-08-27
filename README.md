@@ -4,9 +4,9 @@
 <pre>
     🕵🏻‍♂️ OSINT • 🌍 GIS • 🐧 Linux Sys Admin
     💻 Bash • 🐍 Python 
-    😎 Privacy Enthusiast • 
-    🎵 Music • 🐰 🥕 Cartoons • 🥷 Anime • 🦇 Comics •  
-    🍔 Cooking • 🧘🏽‍♂️ Yoga & Meditation  
+    🧠 Cyber Intelligence • 
+    🔐 Information Security Analyst • 🚨 Incident Response • 🥷 Red Team • 🛡️ Penetration Test •  
+    🌑 Darkweb • 🔍 CTI 
 </pre>
 <br><br>
 <img src="sherlock.gif" alt="sherlock holmes cartoon with a magnifying glass" width="30%" height="30%"/>
