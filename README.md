@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70202&background=47FBFF00&vCenter=true&multiline=true&width=435&lines=I'm+Emre%2C+an+Intelligence+Analyst+and+Red+Teamer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70202&background=47FBFF00&vCenter=true&multiline=true&width=441&height=62&lines=I'm+Emre%2C+an+Intelligence+Analyst+and+Red+Teamer" alt="Typing SVG" /></a>
 <br><br>
 <pre>
     🕵🏻‍♂️ OSINT • 🌍 GIS • 🐧 Linux Sys Admin
