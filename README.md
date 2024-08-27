@@ -11,7 +11,7 @@ Passionate about the latest technological and security advancements, I am dedica
 <pre>
     🕵🏻‍♂️ OSINT • 🌍 GIS • 🌑 Darkweb • 🕷️ CTI 
     💻 Bash • 🐍 Python 
-    🧠 Cyber Intelligence • 
+    🧠 Cyber Intelligence • 🧑‍💼 HUMINT
     🔐 Information Security Analyst • 🚨 Incident Response • 🥷 Red Team • 🛡️ Penetration Test  
 </pre>
 ## MOTTO
