@@ -19,4 +19,3 @@ Passionate about the latest technological and security advancements, I am dedica
 <br><br>
 <img src="https://github.com/emrekybs/emrekybs/blob/main/dadsa.jpeg" width="65%"/>
 <br><br><br>
-<br><br>
