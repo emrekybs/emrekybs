@@ -7,7 +7,7 @@
     🧠 Cyber Intelligence • 
     🔐 Information Security Analyst • 🚨 Incident Response • 🥷 Red Team • 🛡️ Penetration Test •  
 </pre>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&width=435&lines=Searching+for+vulnerabilities+in+machines+is+foolish.;Look+for+vulnerabilities+in+the+deep+desires+of+humans." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7051F7&multiline=true&width=435&lines=Searching+for+vulnerabilities+in+machines+is+foolish.;Look+for+vulnerabilities+in+the+deep+desires+of+humans." alt="Typing SVG" /></a>
     
 ## MOTTO
 "Searching for vulnerabilities in machines is foolish. Look for vulnerabilities in the deep desires of humans."
