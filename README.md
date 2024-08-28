@@ -7,7 +7,7 @@ My commitment lies in understanding and mitigating complex cyber threats, stayin
 <br>
 <pre>
                            🕵🏻‍♂️ OSINT •          🌍 GIS •          🌑 Darkweb •          🕷️ CTI
-                                      💻 Bash •          🐍 Python •       ⚙️ PowerShell
+                                      💻 Bash •         🐍 Python •       ⚙️ PowerShell
                                              🧠 Cyber Intelligence •  🧑‍💼 HUMINT
                                              🔐 InfoSec •  🚨 Incident Response
                                              🥷 Red Team •  🗡️ Penetration Test
