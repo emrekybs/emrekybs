@@ -1,7 +1,6 @@
 [![BloodBane](https://img.shields.io/badge/MadeBy-Bloodbane-red) 
                         
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=13&pause=1000&color=F70000&repeat=false&width=435&lines=I'm+Emre+(BloodBane)+%2C+an+Itelligence+Analyst+and+Red+Teamer." alt="Typing SVG" /></a>
-
 # 👤 WHO AM I 
 
 Working in the field of cyber intelligence, my areas of focus include Advanced Persistent Threats (APT) Analysis, Cyber Geopolitics, Cyber Threat Profiling, Dark Web Monitoring, Information Warfare Strategies, Cyber Espionage Tactics, and Cyber Risk Assessment. 
