@@ -13,7 +13,7 @@ My commitment lies in understanding and mitigating complex cyber threats, stayin
 🥷 Red Team • 🗡️ Penetration Test
 🛡️ SOC Operations & Management
 </pre>
-## 🧠MOTTO🧠
+# 🧠MOTTO🧠
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=7051F7&multiline=true&width=435&lines=Searching+for+vulnerabilities+in+machines+is+foolish.;Look+for+vulnerabilities+in+the+deep+desires+of+humans." alt="Typing SVG" /></a>
 <img src="https://github.com/emrekybs/emrekybs/blob/main/dadsa.jpeg" width="60%"/>
 <br><br>
