@@ -22,3 +22,4 @@ My commitment lies in understanding and mitigating complex cyber threats, stayin
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=7051F7&multiline=true&width=435&lines=Searching+for+vulnerabilities+in+machines+is+foolish.;Look+for+vulnerabilities+in+the+deep+desires+of+humans." alt="Typing SVG" /></a>
 <img src="https://github.com/emrekybs/emrekybs/blob/main/dadsa.jpeg" width="100%"/>
 <br><br>
+<iframe src="https://api.eu.badgr.io/public/assertions/IQ2vcg9WTxCiNmmKnFlvhw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=ekoybasi1998%40gmail.com" title="Badge: Red Team Operator" style="width: 330px; height: 191px; border: 0px;"></iframe>
