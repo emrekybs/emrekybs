@@ -1,7 +1,7 @@
 [![BloodBane](https://img.shields.io/badge/MadeBy-Bloodbane-red) 
          
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=F70000&repeat=false&width=435&lines=I'm+Emre+Koybasi++(BloodBane)" alt="Typing SVG" /></a>
-# 👤 WHO AM I 
+# 🥷🏻 WHO AM I 🥷🏻 
 Working in the field of cyber intelligence, my areas of focus include Advanced Persistent Threats (APT) Analysis, Cyber Geopolitics, Cyber Threat Profiling, Dark Web Monitoring, Information Warfare Strategies, Cyber Espionage Tactics, and Cyber Risk Assessment. 
 My commitment lies in understanding and mitigating complex cyber threats, staying ahead in a constantly evolving security landscape. Passionate about the latest technological and security advancements, I am dedicated to addressing the dynamic challenges of cyber threats.    
 <br><br>
