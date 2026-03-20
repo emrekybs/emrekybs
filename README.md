@@ -1,4 +1,4 @@
-[![BloodBane](https://img.shields.io/badge/MadeBy-Bloodbane-red) 
+[![BloodBane](https://img.shields.io/badge/MadeBy-EmreKybs-red) 
          
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=F70000&repeat=false&width=435&lines=I'm+Emre+Koybasi++(BloodBane)" alt="Typing SVG" /></a>
 # 🥷🏻 WHO AM I 🥷🏻 
