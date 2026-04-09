@@ -10,18 +10,37 @@
 
 ## 🥷🏻 WHO AM I
 
-> *Cyber Intelligence professional focused on OSINT, Dark Web Intelligence, and Cybercrime investigations.*
-> *Experienced in threat hunting, APT analysis, and tracking threat actors across underground ecosystems.*
-> *Also working on offensive security to better understand adversary tactics, cyber espionage operations, and vulnerability exploitation.*
+```bash
+┌──(emrekybs㉿kali)-[~]
+└─$ whoami
+> Emre Koybasi | Cyber Intelligence Analyst
 
-<div align="center">
+┌──(emrekybs㉿kali)-[~]
+└─$ cat /etc/profile.d/mission.sh
 
-| 🌍 OSINT & GIS | 🌑 Dark Web Intelligence | 🕷️ Cyber Threat Intelligence |
-|:---:|:---:|:---:|
-| ⚔️ **Offensive Security** | 🎯 **Threat Hunting** | 🥷 **Cybercrime Investigation** |
-| 🛡️ **SOC Operations** | 🧑‍💼 **HUMINT** | 🔍 **APT Analysis** |
+  Cyber Intelligence professional focused on OSINT, Dark Web Intelligence,
+  and Cybercrime investigations. Experienced in threat hunting, APT analysis,
+  and tracking threat actors across underground ecosystems.
+  Also working on offensive security to better understand adversary tactics,
+  cyber espionage operations, and vulnerability exploitation.
 
-</div>
+┌──(emrekybs㉿kali)-[~]
+└─$ nmap -sV --script=specializations emrekybs
+
+  PORT      STATE   SERVICE           VERSION
+  ═══════════════════════════════════════════════════
+  1337/tcp  open    OSINT & GIS       🌍 v3.0
+  1338/tcp  open    Dark Web Intel    🌑 v2.5
+  1339/tcp  open    CTI               🕷️ v4.0
+  1340/tcp  open    Offensive Sec     ⚔️ v2.0
+  1341/tcp  open    Threat Hunting    🎯 v3.5
+  1342/tcp  open    Cybercrime Inv    🥷 v3.0
+  1343/tcp  open    SOC Operations    🛡️ v2.5
+  1344/tcp  open    HUMINT            🧑‍💼 v2.0
+  1345/tcp  open    APT Analysis      🔍 v3.0
+
+  Nmap done: 1 target scanned in 13.37 seconds
+```
 
 ---
 
@@ -31,17 +50,47 @@
 
 ---
 
+## 🌐 DARK WEB & OSINT MAP
+
+```
+          ╔══════════════════════════════════════════════════════════╗
+          ║          ░░░▒▒▓██ THREAT INTELLIGENCE MAP ██▓▒▒░░░      ║
+          ╠══════════════════════════════════════════════════════════╣
+          ║                                                          ║
+          ║    ·  · ··                  ·    · ·                     ║
+          ║   · ·  ···  ·         ·  ·· ···  · ·   ·               ║
+          ║    ··█·····  ··    · ·  ···█····  ····                  ║
+          ║   ····█████··      ·······██████···█··  ·               ║
+          ║    ··██[US]██·    ··█████[EU]████·█···                  ║
+          ║   · ··█████···   ···████████████····  ···               ║
+          ║    · · ·····       ··████████··██·· ·█···               ║
+          ║         · ·    ·    · ··████··    ··██[TR]█·            ║
+          ║                ··· ·  ·· ··  ·   · ·████···            ║
+          ║                ·██····        · ·    ·····  ···         ║
+          ║               ···████·   ·        ·  ·  ·····█·        ║
+          ║                ·· ···  ·              ·  ··████·        ║
+          ║                  · ·                   · ···[CN]·       ║
+          ║                                          · ···          ║
+          ║                                                          ║
+          ║   [🔴] Active Monitoring   [🟡] Under Analysis           ║
+          ║   [⚪] Passive Recon       [🔵] Archived Intel           ║
+          ╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
 ## 📜 CERTIFICATIONS
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│  🔴  Certified Ethical Hacker (CEH)                      │
-│  🔴  CompTIA Security+                                   │
-│  🔴  OSINT Certified Professional                        │
-│  🔴  Certified SOC Analyst (CSA)                         │
-│  🔴  Cyber Threat Intelligence (CTI) Certification       │
-│  🔴  eLearnSecurity Junior Penetration Tester (eJPT)     │
-└──────────────────────────────────────────────────────────┘
+┌──(emrekybs㉿kali)-[~/certs]
+└─$ ls -la
+
+  drwxr-xr-x  🔴  Certified Ethical Hacker (CEH)
+  drwxr-xr-x  🔴  CompTIA Security+
+  drwxr-xr-x  🔴  OSINT Certified Professional
+  drwxr-xr-x  🔴  Certified SOC Analyst (CSA)
+  drwxr-xr-x  🔴  Cyber Threat Intelligence (CTI)
+  drwxr-xr-x  🔴  eLearnSecurity Junior Penetration Tester (eJPT)
 ```
 
 > ⚠️ *Kendi sertifikalarınla güncelle*
