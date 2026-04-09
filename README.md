@@ -13,7 +13,7 @@
 ```bash
 ┌──(bloodbane㉿root)-[~]
 └─$ whoami
-> Threat Researcher
+> Emre Koybasi / Threat Researcher
 
 ┌──(bloodbane㉿root)-[~]
 └─$ cat /etc/profile.d/mission.sh
@@ -25,7 +25,7 @@
   # Also working on offensive security to better understand
   # adversary tactics and vulnerability exploitation.
 
-┌──(emrekybs㉿kali)-[~]
+┌──(bloodbane㉿root)-[~]
 └─$ nmap -sV --script=specializations emrekybs
 
   PORT      STATE   SERVICE            VERSION
