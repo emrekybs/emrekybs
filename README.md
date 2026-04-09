@@ -18,26 +18,27 @@
 ┌──(emrekybs㉿kali)-[~]
 └─$ cat /etc/profile.d/mission.sh
 
-  Cyber Intelligence professional focused on OSINT, Dark Web Intelligence,
-  and Cybercrime investigations. Experienced in threat hunting, APT analysis,
-  and tracking threat actors across underground ecosystems.
-  Also working on offensive security to better understand adversary tactics,
-  cyber espionage operations, and vulnerability exploitation.
+  # Cyber Intelligence professional focused on OSINT,
+  # Dark Web Intelligence, and Cybercrime investigations.
+  # Experienced in threat hunting, APT analysis, and
+  # tracking threat actors across underground ecosystems.
+  # Also working on offensive security to better understand
+  # adversary tactics and vulnerability exploitation.
 
 ┌──(emrekybs㉿kali)-[~]
 └─$ nmap -sV --script=specializations emrekybs
 
-  PORT      STATE   SERVICE           VERSION
+  PORT      STATE   SERVICE            VERSION
   ═══════════════════════════════════════════════════
-  1337/tcp  open    OSINT & GIS       🌍 v3.0
-  1338/tcp  open    Dark Web Intel    🌑 v2.5
-  1339/tcp  open    CTI               🕷️ v4.0
-  1340/tcp  open    Offensive Sec     ⚔️ v2.0
-  1341/tcp  open    Threat Hunting    🎯 v3.5
-  1342/tcp  open    Cybercrime Inv    🥷 v3.0
-  1343/tcp  open    SOC Operations    🛡️ v2.5
-  1344/tcp  open    HUMINT            🧑‍💼 v2.0
-  1345/tcp  open    APT Analysis      🔍 v3.0
+  1337/tcp  open    OSINT & GIS        🌍 v3.0
+  1338/tcp  open    Dark Web Intel     🌑 v2.5
+  1339/tcp  open    CTI                🕷️ v4.0
+  1340/tcp  open    Offensive Sec      ⚔️ v2.0
+  1341/tcp  open    Threat Hunting     🎯 v3.5
+  1342/tcp  open    Cybercrime Inv     🥷 v3.0
+  1343/tcp  open    SOC Operations     🛡️ v2.5
+  1344/tcp  open    HUMINT             🧑‍💼 v2.0
+  1345/tcp  open    APT Analysis       🔍 v3.0
 
   Nmap done: 1 target scanned in 13.37 seconds
 ```
@@ -50,50 +51,23 @@
 
 ---
 
-## 🌐 DARK WEB & OSINT MAP
-
-```
-          ╔══════════════════════════════════════════════════════════╗
-          ║          ░░░▒▒▓██ THREAT INTELLIGENCE MAP ██▓▒▒░░░      ║
-          ╠══════════════════════════════════════════════════════════╣
-          ║                                                          ║
-          ║    ·  · ··                  ·    · ·                     ║
-          ║   · ·  ···  ·         ·  ·· ···  · ·   ·               ║
-          ║    ··█·····  ··    · ·  ···█····  ····                  ║
-          ║   ····█████··      ·······██████···█··  ·               ║
-          ║    ··██[US]██·    ··█████[EU]████·█···                  ║
-          ║   · ··█████···   ···████████████····  ···               ║
-          ║    · · ·····       ··████████··██·· ·█···               ║
-          ║         · ·    ·    · ··████··    ··██[TR]█·            ║
-          ║                ··· ·  ·· ··  ·   · ·████···            ║
-          ║                ·██····        · ·    ·····  ···         ║
-          ║               ···████·   ·        ·  ·  ·····█·        ║
-          ║                ·· ···  ·              ·  ··████·        ║
-          ║                  · ·                   · ···[CN]·       ║
-          ║                                          · ···          ║
-          ║                                                          ║
-          ║   [🔴] Active Monitoring   [🟡] Under Analysis           ║
-          ║   [⚪] Passive Recon       [🔵] Archived Intel           ║
-          ╚══════════════════════════════════════════════════════════╝
-```
-
----
-
 ## 📜 CERTIFICATIONS
 
-```
-┌──(emrekybs㉿kali)-[~/certs]
+```bash
+┌──(bloodbane㉿root)-[~/certs]
 └─$ ls -la
 
-  drwxr-xr-x  🔴  Certified Ethical Hacker (CEH)
+  drwxr-xr-x  🔴  CEH Master
+  drwxr-xr-x  🔴  CRTO (Certified Red Team Operator)
+  drwxr-xr-x  🔴  CRTP (Certified Red Team Professional)
+  drwxr-xr-x  🔴  eWPTX (Web Application Penetration Tester eXtreme)
   drwxr-xr-x  🔴  CompTIA Security+
-  drwxr-xr-x  🔴  OSINT Certified Professional
-  drwxr-xr-x  🔴  Certified SOC Analyst (CSA)
-  drwxr-xr-x  🔴  Cyber Threat Intelligence (CTI)
-  drwxr-xr-x  🔴  eLearnSecurity Junior Penetration Tester (eJPT)
+  drwxr-xr-x  🔴  CompTIA CySA+
+  drwxr-xr-x  🔴  CompTIA PenTest+
+  drwxr-xr-x  🔴  CompTIA CASP+ / SecurityX
+  drwxr-xr-x  🔴  CompTIA Cloud+
+  drwxr-xr-x  🔴  Certified AppSec Practitioner (CAP)
 ```
-
-> ⚠️ *Kendi sertifikalarınla güncelle*
 
 ---
 
@@ -101,9 +75,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red)](https://linkedin.com/in/KULLANICI_ADIN)
-[![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=red)](https://x.com/KULLANICI_ADIN)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/KULLANICI_ADIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red)](https://www.linkedin.com/in/emre-koybasi/)
+[![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=red)](https://x.com/emrekybs0)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/emrekybs8/)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-black?style=for-the-badge&logo=protonmail&logoColor=red)](mailto:emrekoybasi@protonmail.com)
 
 </div>
 
