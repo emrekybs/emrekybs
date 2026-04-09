@@ -11,11 +11,11 @@
 ## 🥷🏻 WHO AM I
 
 ```bash
-┌──(emrekybs㉿kali)-[~]
+┌──(bloodbane㉿root)-[~]
 └─$ whoami
-> Emre Koybasi | Cyber Intelligence Analyst
+> Threat Researcher
 
-┌──(emrekybs㉿kali)-[~]
+┌──(bloodbane㉿root)-[~]
 └─$ cat /etc/profile.d/mission.sh
 
   # Cyber Intelligence professional focused on OSINT,
