@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:8B0000&height=200&section=header&text=EMREKYBS&fontSize=60&fontColor=ff0000&animation=fadeIn&fontAlignY=55&desc=Cyber%20Intelligence%20|%20OSINT%20|%20Dark%20Web%20Intel&descAlignY=75&descSize=16&descColor=8b0000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:8B0000&height=200&section=header&text=BloodBane&fontSize=60&fontColor=ff0000&animation=fadeIn&fontAlignY=55&desc=Cyber%20Intelligence%20|%20OSINT%20|%20Dark%20Web%20Intel&descAlignY=75&descSize=16&descColor=8b0000" width="100%"/>
 
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-red)](https://github.com/emrekybs)
 [![Profile Views](https://komarev.com/ghpvc/?username=emrekybs&color=red&style=flat-square)](https://github.com/emrekybs)
