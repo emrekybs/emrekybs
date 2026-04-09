@@ -4,7 +4,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=emrekybs&color=red&style=flat-square)](https://github.com/emrekybs)
 [![GitHub followers](https://img.shields.io/github/followers/emrekybs?style=flat-square&color=red&label=Followers)](https://github.com/emrekybs)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=F70000&repeat=false&width=435&lines=Threat Researcher" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=F70000&repeat=false&width=435&lines=Threat+Researcher" alt="Typing SVG" /></a>
 
 ---
 
