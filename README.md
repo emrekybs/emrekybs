@@ -1,4 +1,4 @@
-<img src="behind24-logo.jpeg" width="100%"/>
+<img src="https://github.com/emrekybs/emrekybs/blob/main/b24.jpeg" width="100%"/>
 
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-red)](https://github.com/emrekybs)
 [![Profile Views](https://komarev.com/ghpvc/?username=emrekybs&color=red&style=flat-square)](https://github.com/emrekybs)
