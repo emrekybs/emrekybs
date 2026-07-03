@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:8B0000&height=200&section=header&text=BloodBane&fontSize=60&fontColor=ff0000&animation=fadeIn&fontAlignY=55&desc=Cyber%20Intelligence%20|%20OSINT%20|%20Dark%20Web%20Intel&descAlignY=75&descSize=16&descColor=8b0000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:8B0000&height=200&section=header&text=BEHIND24&fontSize=60&fontColor=ff0000&animation=fadeIn&fontAlignY=55&desc=Cyber%20Intelligence%20|%20OSINT%20|%20Dark%20Web%20Intel&descAlignY=75&descSize=16&descColor=8b0000" width="100%"/>
 
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-red)](https://github.com/emrekybs)
 [![Profile Views](https://komarev.com/ghpvc/?username=emrekybs&color=red&style=flat-square)](https://github.com/emrekybs)
@@ -11,11 +11,11 @@
   ## 🥷🏻 WHO AM I
 
 ```bash
-┌──(bloodbane㉿root)-[~]
+┌──(B24㉿root)-[~]
 └─$ whoami
 > Emre Koybasi
 
-┌──(bloodbane㉿root)-[~]
+┌──(B24㉿root)-[~]
 └─$ cat /etc/profile.d/mission.sh
 
   # Cyber Intelligence professional focused on OSINT,
@@ -25,7 +25,7 @@
   # Also working on offensive security to better understand
   # adversary tactics and vulnerability exploitation.
 
-┌──(bloodbane㉿root)-[~]
+┌──(B24㉿root)-[~]
 └─$ nmap -sV --script=specializations emrekybs
 
   PORT      STATE   SERVICE            VERSION
