@@ -199,7 +199,6 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/emrekybs/emrekybs/output/snake.svg" alt="Snake animation" width="98%"/>
 
 <br><br>
 
