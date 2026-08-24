@@ -97,8 +97,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=emrekybs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F70000&icon_color=F70000&text_color=C9D1D9&include_all_commits=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekybs&layout=compact&hide_border=true&bg_color=0D1117&title_color=F70000&text_color=C9D1D9&langs_count=8"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=emrekybs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F70000&icon_color=F70000&text_color=C9D1D9&include_all_commits=true&rank_icon=github&cache_seconds=86400"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=emrekybs&layout=compact&hide_border=true&bg_color=0D1117&title_color=F70000&text_color=C9D1D9&langs_count=8&cache_seconds=86400"/>
 
 <br>
 
