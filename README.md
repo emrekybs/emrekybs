@@ -49,7 +49,6 @@ total: 10 | status: ACTIVE | next: loading...
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emrekybs/emrekybs/output/snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emrekybs/emrekybs/output/snake-light.svg"/>
-    <img alt="Threat Activity Timeline" src="https://raw.githubusercontent.com/emrekybs/emrekybs/output/snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
