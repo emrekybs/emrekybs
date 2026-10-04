@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="emrekybs — Threat Researcher" width="100%"/>
+  <img src="./assets/header.svg" alt="EmreKybs — Threat Researcher" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/emrekybs"><img src="https://komarev.com/ghpvc/?username=emrekybs&color=red&style=flat-square&label=Recon+Attempts" alt="Profile Views"/></a>
   <a href="https://github.com/emrekybs?tab=followers"><img src="https://img.shields.io/github/followers/emrekybs?style=flat-square&color=red&labelColor=black&label=Followers" alt="Followers"/></a>
   <a href="https://github.com/emrekybs?tab=repositories"><img src="https://img.shields.io/github/stars/emrekybs?affiliations=OWNER&style=flat-square&color=red&labelColor=black&label=Stars" alt="Stars"/></a>
 </div>
