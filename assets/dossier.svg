@@ -52,6 +52,6 @@
 <rect x="560" y="217" width="416" height="3" rx="1.5" fill="#1E2A3D"/><rect x="560" y="217" width="266" height="3" rx="1.5" fill="#4C8DFF" class="grow" style="animation-delay:0.48s"/>
 <text x="560" y="237" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#D5DBE5">Adversary emulation / AD</text><text x="976" y="237" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="9.5" fill="#4C8DFF" text-anchor="end" letter-spacing="1.5">RESEARCH</text>
 <rect x="560" y="244" width="416" height="3" rx="1.5" fill="#1E2A3D"/><rect x="560" y="244" width="241" height="3" rx="1.5" fill="#4C8DFF" class="grow" style="animation-delay:0.60s"/>
-<text x="560" y="264" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#D5DBE5">Malware analysis &amp; RE</text><text x="976" y="264" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="9.5" fill="#8A94A6" text-anchor="end" letter-spacing="1.5">LEARNING</text>
+<text x="560" y="264" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#D5DBE5">Malware analysis &amp; RE</text><text x="976" y="264" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="9.5" fill="#8A94A6" text-anchor="end" letter-spacing="1.5">ACTIVE</text>
 <rect x="560" y="271" width="416" height="3" rx="1.5" fill="#1E2A3D"/><rect x="560" y="271" width="166" height="3" rx="1.5" fill="#8A94A6" class="grow" style="animation-delay:0.72s"/>
 </svg>
