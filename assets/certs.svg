@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" width="1000" height="330">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06090F"/><stop offset=".55" stop-color="#0B1220"/><stop offset="1" stop-color="#070A11"/></linearGradient>
+<pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="#1A2436"/></pattern>
+<linearGradient id="ol" x1="0" x2="1"><stop offset="0" stop-color="#FF7A1A" stop-opacity="0"/><stop offset=".5" stop-color="#FF7A1A"/><stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/></linearGradient>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF7A1A" stop-opacity="0"/><stop offset="1" stop-color="#FF7A1A" stop-opacity=".5"/></linearGradient>
+<radialGradient id="glowO" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#FF7A1A" stop-opacity=".18"/><stop offset="1" stop-color="#FF7A1A" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowB" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#4C8DFF" stop-opacity=".16"/><stop offset="1" stop-color="#4C8DFF" stop-opacity="0"/></radialGradient>
+<style>
+.pulse{animation:p 2.4s ease-in-out infinite}@keyframes p{0%,100%{opacity:.3}50%{opacity:1}}
+.blink{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+.flow{stroke-dasharray:3 5;animation:f 2.5s linear infinite}@keyframes f{to{stroke-dashoffset:-32}}
+.grow{animation:g 1.8s cubic-bezier(.2,.7,.2,1) both;transform-box:fill-box;transform-origin:left}@keyframes g{from{transform:scaleX(0)}}
+.spin{animation:s 14s linear infinite;transform-box:fill-box;transform-origin:center}@keyframes s{to{transform:rotate(360deg)}}
+.hx{animation:h 6.5s ease-in-out infinite;opacity:0}@keyframes h{0%,100%{opacity:0}8%{opacity:1}22%{opacity:0}}
+</style></defs>
+<rect width="1000" height="330" rx="12" fill="url(#bg)"/><rect width="1000" height="330" rx="12" fill="url(#dots)"/><rect x=".5" y=".5" width="999" height="329" rx="12" fill="none" stroke="#1E2A3D"/>
+<circle cx="26" cy="27" r="4" fill="#FF7A1A"/><text x="40" y="31" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#F2F4F8" letter-spacing="1.5">ls ~/credentials --verified</text>
+<text x="976" y="31" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="10.5" fill="#7D8798" text-anchor="end" letter-spacing="2">13 RECORDS · INTEGRITY OK</text>
+<line x1="24" y1="48" x2="976" y2="48" stroke="#1E2A3D"/><line x1="24" y1="48" x2="110" y2="48" stroke="#FF7A1A" stroke-width="1.5"/>
+<polygon points="164.0,68.0 216.0,98.0 216.0,158.0 164.0,188.0 112.0,158.0 112.0,98.0" fill="#0D1524" stroke="#24324A" stroke-width="1.2"/>
+<polygon points="164.0,68.0 216.0,98.0 216.0,158.0 164.0,188.0 112.0,158.0 112.0,98.0" fill="#FF7A1A" fill-opacity=".06" stroke="#FF7A1A" stroke-width="1.6" class="hx" style="animation-delay:0.00s"/>
+<polygon points="164.0,75.0 209.9,101.5 209.9,154.5 164.0,181.0 118.1,154.5 118.1,101.5" fill="none" stroke="#4C8DFF" stroke-opacity=".18"/>
+<circle cx="164" cy="98" r="2.6" fill="#FF7A1A"/>
+<text x="164" y="133" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="800" fill="#F2F4F8" text-anchor="middle">CEH Master</text>
+<text x="164" y="152" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="8" fill="#7D8798" text-anchor="middle">EC-Council</text>
+<polygon points="276.0,68.0 328.0,98.0 328.0,158.0 276.0,188.0 224.0,158.0 224.0,98.0" fill="#0D1524" stroke="#24324A" stroke-width="1.2"/>
+<polygon points="276.0,68.0 328.0,98.0 328.0,158.0 276.0,188.0 224.0,158.0 224.0,98.0" fill="#FF7A1A" fill-opacity=".06" stroke="#FF7A1A" stroke-width="1.6" class="hx" style="animation-delay:0.45s"/>
+<polygon points="276.0,75.0 321.9,101.5 321.9,154.5 276.0,181.0 230.1,154.5 230.1,101.5" fill="none" stroke="#4C8DFF" stroke-opacity=".18"/>
+<circle cx="276" cy="98" r="2.6" fill="#FF7A1A"/>
+<text x="276" y="133" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#F2F4F8" text-anchor="middle">CRTO</text>
+<text x="276" y="152" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="8" fill="#7D8798" text-anchor="middle">Zero-Point Security</text>
+<polygon points="388.0,68.0 440.0,98.0 440.0,158.0 388.0,188.0 336.0,158.0 336.0,98.0" fill="#0D1524" stroke="#24324A" stroke-width="1.2"/>
+<polygon points="388.0,68.0 440.0,98.0 440.0,158.0 388.0,188.0 336.0,158.0 336.0,98.0" fill="#FF7A1A" fill-opacity=".06" stroke="#FF7A1A" stroke-width="1.6" class="hx" style="animation-delay:0.90s"/>
+<polygon points="388.0,75.0 433.9,101.5 433.9,154.5 388.0,181.0 342.1,154.5 342.1,101.5" fill="none" stroke="#4C8DFF" stroke-opacity=".18"/>
+<circle cx="388" cy="98" r="2.6" fill="#FF7A1A"/>
+<text x="388" y="133" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#F2F4F8" text-anchor="middle">CRTP</text>
+<text x="388" y="152" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="8" fill="#7D8798" text-anchor="middle">Altered Security</text>
+<polygon points="500.0,68.0 552.0,98.0 552.0,158.0 500.0,188.0 448.0,158.0 448.0,98.0" fill="#0D1524" stroke="#24324A" stroke-width="1.2"/>
+<polygon points="500.0,68.0 552.0,98.0 552.0,158.0 500.0,188.0 448.0,158.0 448.0,98.0" fill="#FF7A1A" fill-opacity=".06" stroke="#FF7A1A" stroke-width="1.6" class="hx" style="animation-delay:1.35s"/>
+<polygon points="500.0,75.0 545.9,101.5 545.9,154.5 500.0,181.0 454.1,154.5 454.1,101.5" fill="none" stroke="#4C8DFF" stroke-opacity=".18"/>
+<circle cx="500" cy="98" r="2.6" fill="#FF7A1A"/>
+<text x="500" y="133" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#F2F4F8" text-anchor="middle">CRTE</text>
+<text x="500" y="152" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="8" fill="#7D8798" text-anchor="middle">Altered Security</text>
+<polygon points="612.0,68.0 664.0,98.0 664.0,158.0 612.0,188.0 560.0,158.0 560.0,98.0" fill="#0D1524" stroke="#24324A" stroke-width="1.2"/>
+<polygon points="612.0,68.0 664.0,98.0 664.0,158.0 612.0,188.0 560.0,158.0 560.0,98.0" fill="#FF7A1A" fill-opacity=".06" stroke="#FF7A1A" stroke-width="1.6" class="hx" style="animation-delay:1.80s"/>
+<polygon points="612.0,75.0 657.9,101.5 657.9,154.5 612.0,181.0 566.1,154.5 566.1,101.5" fill="none" stroke="#4C8DFF" stroke-opacity=".18"/>
+<circle cx="612" cy="98" r="2.6" fill="#FF7A1A"/>
+<text x="612" y="133" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#F2F4F8" text-anchor="middle">eWPTX</text>
+<text x="612" y="152" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="8" fill="#7D8798" text-anchor="middle">INE Security</text>
+<polygon points="724.0,68.0 776.0,98.0 776.0,158.0 724.0,188.0 672.0,158.0 672.0,98.0" fill="#0D1524" stroke="#24324A" stroke-width="1.2"/>
+<polygon points="724.0,68.0 776.0,98.0 776.0,158.0 724.0,188.0 672.0,158.0 672.0,98.0" fill="#FF7A1A" fill-opacity=".06" stroke="#FF7A1A" stroke-width="1.6" class="hx" style="animation-delay:2.25s"/>
+<polygon points="724.0,75.0 769.9,101.5 769.9,154.5 724.0,181.0 678.1,154.5 678.1,101.5" fill="none" stroke="#4C8DFF" stroke-opacity=".18"/>
+<circle cx="724" cy="98" r="2.6" fill="#FF7A1A"/>
+<text x="724" y="133" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#F2F4F8" text-anchor="middle">PNPT</text>
+<text x="724" y="152" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="8" fill="#7D8798" text-anchor="middle">TCM Security</text>
+<polygon points="836.0,68.0 888.0,98.0 888.0,158.0 836.0,188.0 784.0,158.0 784.0,98.0" fill="#0D1524" stroke="#24324A" stroke-width="1.2"/>
+<polygon points="836.0,68.0 888.0,98.0 888.0,158.0 836.0,188.0 784.0,158.0 784.0,98.0" fill="#FF7A1A" fill-opacity=".06" stroke="#FF7A1A" stroke-width="1.6" class="hx" style="animation-delay:2.70s"/>
+<polygon points="836.0,75.0 881.9,101.5 881.9,154.5 836.0,181.0 790.1,154.5 790.1,101.5" fill="none" stroke="#4C8DFF" stroke-opacity=".18"/>
+<circle cx="836" cy="98" r="2.6" fill="#FF7A1A"/>
+<text x="836" y="133" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#F2F4F8" text-anchor="middle">PORP</text>
+<text x="836" y="152" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="8" fill="#7D8798" text-anchor="middle">TCM Security</text>
+<polygon points="220.0,166.0 272.0,196.0 272.0,256.0 220.0,286.0 168.0,256.0 168.0,196.0" fill="#0D1524" stroke="#24324A" stroke-width="1.2"/>
+<polygon points="220.0,166.0 272.0,196.0 272.0,256.0 220.0,286.0 168.0,256.0 168.0,196.0" fill="#FF7A1A" fill-opacity=".06" stroke="#FF7A1A" stroke-width="1.6" class="hx" style="animation-delay:3.15s"/>
+<polygon points="220.0,173.0 265.9,199.5 265.9,252.5 220.0,279.0 174.1,252.5 174.1,199.5" fill="none" stroke="#4C8DFF" stroke-opacity=".18"/>
+<circle cx="220" cy="196" r="2.6" fill="#FF7A1A"/>
+<text x="220" y="231" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#F2F4F8" text-anchor="middle">CAP</text>
+<text x="220" y="250" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="8" fill="#7D8798" text-anchor="middle">The SecOps Group</text>
+<polygon points="332.0,166.0 384.0,196.0 384.0,256.0 332.0,286.0 280.0,256.0 280.0,196.0" fill="#0D1524" stroke="#24324A" stroke-width="1.2"/>
+<polygon points="332.0,166.0 384.0,196.0 384.0,256.0 332.0,286.0 280.0,256.0 280.0,196.0" fill="#FF7A1A" fill-opacity=".06" stroke="#FF7A1A" stroke-width="1.6" class="hx" style="animation-delay:3.60s"/>
+<polygon points="332.0,173.0 377.9,199.5 377.9,252.5 332.0,279.0 286.1,252.5 286.1,199.5" fill="none" stroke="#4C8DFF" stroke-opacity=".18"/>
+<circle cx="332" cy="196" r="2.6" fill="#FF7A1A"/>
+<text x="332" y="231" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="800" fill="#F2F4F8" text-anchor="middle">Security+</text>
+<text x="332" y="250" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="8" fill="#7D8798" text-anchor="middle">CompTIA</text>
+<polygon points="444.0,166.0 496.0,196.0 496.0,256.0 444.0,286.0 392.0,256.0 392.0,196.0" fill="#0D1524" stroke="#24324A" stroke-width="1.2"/>
+<polygon points="444.0,166.0 496.0,196.0 496.0,256.0 444.0,286.0 392.0,256.0 392.0,196.0" fill="#FF7A1A" fill-opacity=".06" stroke="#FF7A1A" stroke-width="1.6" class="hx" style="animation-delay:4.05s"/>
+<polygon points="444.0,173.0 489.9,199.5 489.9,252.5 444.0,279.0 398.1,252.5 398.1,199.5" fill="none" stroke="#4C8DFF" stroke-opacity=".18"/>
+<circle cx="444" cy="196" r="2.6" fill="#FF7A1A"/>
+<text x="444" y="231" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#F2F4F8" text-anchor="middle">CySA+</text>
+<text x="444" y="250" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="8" fill="#7D8798" text-anchor="middle">CompTIA</text>
+<polygon points="556.0,166.0 608.0,196.0 608.0,256.0 556.0,286.0 504.0,256.0 504.0,196.0" fill="#0D1524" stroke="#24324A" stroke-width="1.2"/>
+<polygon points="556.0,166.0 608.0,196.0 608.0,256.0 556.0,286.0 504.0,256.0 504.0,196.0" fill="#FF7A1A" fill-opacity=".06" stroke="#FF7A1A" stroke-width="1.6" class="hx" style="animation-delay:4.50s"/>
+<polygon points="556.0,173.0 601.9,199.5 601.9,252.5 556.0,279.0 510.1,252.5 510.1,199.5" fill="none" stroke="#4C8DFF" stroke-opacity=".18"/>
+<circle cx="556" cy="196" r="2.6" fill="#FF7A1A"/>
+<text x="556" y="231" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="800" fill="#F2F4F8" text-anchor="middle">PenTest+</text>
+<text x="556" y="250" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="8" fill="#7D8798" text-anchor="middle">CompTIA</text>
+<polygon points="668.0,166.0 720.0,196.0 720.0,256.0 668.0,286.0 616.0,256.0 616.0,196.0" fill="#0D1524" stroke="#24324A" stroke-width="1.2"/>
+<polygon points="668.0,166.0 720.0,196.0 720.0,256.0 668.0,286.0 616.0,256.0 616.0,196.0" fill="#FF7A1A" fill-opacity=".06" stroke="#FF7A1A" stroke-width="1.6" class="hx" style="animation-delay:4.95s"/>
+<polygon points="668.0,173.0 713.9,199.5 713.9,252.5 668.0,279.0 622.1,252.5 622.1,199.5" fill="none" stroke="#4C8DFF" stroke-opacity=".18"/>
+<circle cx="668" cy="196" r="2.6" fill="#FF7A1A"/>
+<text x="668" y="231" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="800" fill="#F2F4F8" text-anchor="middle">SecurityX</text>
+<text x="668" y="250" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="8" fill="#7D8798" text-anchor="middle">CompTIA</text>
+<polygon points="780.0,166.0 832.0,196.0 832.0,256.0 780.0,286.0 728.0,256.0 728.0,196.0" fill="#0D1524" stroke="#24324A" stroke-width="1.2"/>
+<polygon points="780.0,166.0 832.0,196.0 832.0,256.0 780.0,286.0 728.0,256.0 728.0,196.0" fill="#FF7A1A" fill-opacity=".06" stroke="#FF7A1A" stroke-width="1.6" class="hx" style="animation-delay:5.40s"/>
+<polygon points="780.0,173.0 825.9,199.5 825.9,252.5 780.0,279.0 734.1,252.5 734.1,199.5" fill="none" stroke="#4C8DFF" stroke-opacity=".18"/>
+<circle cx="780" cy="196" r="2.6" fill="#FF7A1A"/>
+<text x="780" y="231" font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="800" fill="#F2F4F8" text-anchor="middle">Cloud+</text>
+<text x="780" y="250" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="8" fill="#7D8798" text-anchor="middle">CompTIA</text>
+<text x="24" y="310" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="10.5" fill="#7D8798" letter-spacing="1">status <tspan fill="#FF7A1A">ACTIVE</tspan> · next <tspan fill="#9DBBFF">loading</tspan><tspan class="blink" fill="#FF7A1A">▌</tspan></text></svg>

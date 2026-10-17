@@ -1,35 +1,27 @@
-# DOSYA YOLU: .github/workflows/snake.yml
-# (README'nin yanina degil, tam bu yola konulacak)
-
-name: Generate Snake
+name: Generate snake
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main, master]
+
+permissions:
+  contents: write
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=#F70000&color_dots=#161B22,#8B0000,#B22222,#F70000,#FF4C4C
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/snake-dark.svg?palette=github-dark&color_snake=#FF7A1A&color_dots=#111A2B,#1B3460,#2B5BB5,#4C8DFF,#9DBBFF&color_background=#0B1220
+            dist/snake-light.svg?color_snake=#FF7A1A&color_dots=#EEF2F8,#BFD1F5,#86A9EE,#4C8DFF,#1F4FB8
 
-      - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

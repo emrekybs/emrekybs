@@ -1,8 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 10" width="1000" height="10">
-<defs><linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#0D1117"/><stop offset=".5" stop-color="#8B0000"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
-<linearGradient id="p" x1="0" x2="1"><stop offset="0" stop-color="#F70000" stop-opacity="0"/><stop offset=".8" stop-color="#F70000"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
-<filter id="gl" x="-10%" y="-200%" width="120%" height="500%"><feGaussianBlur stdDeviation="2.5"/></filter></defs>
-<rect y="4.5" width="1000" height="1" fill="url(#b)"/>
-<g><animateTransform attributeName="transform" type="translate" values="-240 0;1000 0" dur="3.5s" repeatCount="indefinite"/>
-<rect y="3" width="240" height="4" fill="url(#p)" filter="url(#gl)"/><rect y="4" width="240" height="2" fill="url(#p)"/></g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 20" width="1000" height="20">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#4C8DFF" stop-opacity="0"/><stop offset=".5" stop-color="#4C8DFF" stop-opacity=".55"/><stop offset="1" stop-color="#4C8DFF" stop-opacity="0"/></linearGradient>
+<style>.m{animation:m 5s linear infinite}@keyframes m{from{transform:translateX(-90px)}to{transform:translateX(1000px)}}</style></defs>
+<line x1="0" y1="10" x2="1000" y2="10" stroke="url(#l)"/><rect class="m" x="0" y="9" width="90" height="2" rx="1" fill="#FF7A1A"/>
+<rect x="495" y="5" width="10" height="10" transform="rotate(45 500 10)" fill="#06090F" stroke="#FF7A1A"/></svg>
